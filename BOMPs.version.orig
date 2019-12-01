@@ -5,18 +5,19 @@
   "VERSION": {
     "MAJOR": 1,
     "MINOR": 0,
-    "PATCH": 2,
-    "BUILD": 0
+    "PATCH": 1,
+    "BUILD": 9
   },
   "KSP_VERSION_MIN": {
     "MAJOR": 1,
-    "MINOR": 8,
+    "MINOR": 2,
     "PATCH": 0
   },
-  "INSTALL_LOC_1": {
-    "NAME": "BOMPs",
-    "PATH": "",
-    "DIRECTORY": "BOMPs",
-    "FILE": "BOMPs.version"
+  "INSTALL_LOC_1":
+  {
+    "NAME":    "BOMPs",
+    "PATH":         "",
+    "DIRECTORY":    "BOMPs",
+    "FILE":         "BOMPs.version"
   }
 }
