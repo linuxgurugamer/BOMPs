@@ -1,5 +1,8 @@
 ChangeLog
 
+1.0.2.1
+	Removed MiniAVC.dll
+
 1.0.2
 	Updated version file for KSP 1.8
 
