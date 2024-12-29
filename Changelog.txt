@@ -1,5 +1,9 @@
 ChangeLog
 
+1.0.2.2
+	Updated version file to use github for new versions
+	Copied web page to README-WEB.md
+
 1.0.2.1
 	Removed MiniAVC.dll
 

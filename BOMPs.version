@@ -1,12 +1,12 @@
 {
   "NAME": "BOMPs",
-  "URL": "http://ksp.spacetux.net/avc/BOMPs",
+  "URL": "https://raw.githubusercontent.com/linuxgurugamer/BOMPs/refs/heads/master/BOMPs.version",
   "DOWNLOAD": "https://github.com/linuxgurugamer/BOMPs/releases",
   "VERSION": {
     "MAJOR": 1,
     "MINOR": 0,
     "PATCH": 2,
-    "BUILD": 1
+    "BUILD": 2
   },
   "KSP_VERSION": {
     "MAJOR": 1,
@@ -16,7 +16,11 @@
   "KSP_VERSION_MIN": {
     "MAJOR": 1,
     "MINOR": 12,
-    "PATCH": 0
+  },
+  "KSP_VERSION_MAX": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 99
   },
   "INSTALL_LOC_1": {
     "NAME": "BOMPs",
